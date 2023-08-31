@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tayyab/precache-manifest.5edd6e419241ace807307d4f14acffbf.js"
+  "/tayyab/precache-manifest.fbf0f988d966d79e54b078fbf81eeace.js"
 );
 
 workbox.clientsClaim();
