@@ -12,4 +12,4 @@ ghpages.publish(
         if (err) console.log("Error: ", err);
         else console.log("DEPLOY HO GAYA!!!!")
     }
-);
+)
